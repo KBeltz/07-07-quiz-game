@@ -1,6 +1,8 @@
 # 07-07-quiz-game
 
-##Note: The below activity was designed as a pair-programming exercise. I'm modifying the assignment to not be a collaborative one. So you can do it solo. We'll have plenty more pair-programming practice.
+##Note:
+
+The below activity was designed as a pair-programming exercise. I'm modifying the assignment to not be a collaborative one. So you can do it solo. We'll have plenty more pair-programming practice.
 
 If you still want to do this with a partner, consider collaborating over Slack. (Start a direct-message conversation with them and then type /room. It'll start a video conference.)
 
